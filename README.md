@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 Welcome 🎀!
+### 🔭 I’m currently working on:
+- Small Python projects like a reminder bot
+- Learning GitHub and building my personal portfolio
 
-<!--
-**HanasProgram/HanasProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 I’m currently learning:
+- Python (loops, conditions, functions, etc.)
+- Data structures and algorithms
+- Git & GitHub
+- English speaking practice
 
-Here are some ideas to get you started:
+### 👯 I’m looking to collaborate on:
+- Beginner-friendly Python projects
+- AI-related learning groups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤔 I’m looking for help with:
+- Getting real-world experience in programming
+- Contributing to open-source
+
+### 💬 Ask me about:
+- Python basics
+- My journey into coding
+- How I started learning GitHub
+
+### 📫 How to reach me:
+- Gmail: hanagolpourr@gmail.com
+- GitHub: [github.com/hanagolpour](https://github.com/hanagolpour)
+
+### 😄 Pronouns:
+- She / Her
+
+### ⚡ Fun fact:
+- I love learning new things, especially when it feels impossible at first! 
